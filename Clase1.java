@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class Clase2 {
+public class Clase1 {
 
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
-        double suma = 0;
+        double suma = 0; 
         double numero, media;
         System.out.println("Introduce los 20 numeros: ");
         for (int i = 0; i < 20; i++) {
