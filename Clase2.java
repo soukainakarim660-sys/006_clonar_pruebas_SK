@@ -13,6 +13,6 @@ public class Clase2 {
             System.out.println("Este año " + año + " no es bisiesto.");
         }
 
-        teclado.close();
+        teclado.close(); 
     }
 }
